@@ -1,2 +1,3 @@
-# EmotionDetection
-detect emotions by text
+# EmotionDetection 
+## In progress 
+detect emotions (angry, disgust, joy) by text
